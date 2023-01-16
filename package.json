@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "practising unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayeda-chattopadhyay/module-3-unit-testing.git"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "jest"
+  ],
+  "author": "sayeda chattopadhyay <sayeda.b@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayeda-chattopadhyay/module-3-unit-testing/issues"
+  },
+  "homepage": "https://github.com/sayeda-chattopadhyay/module-3-unit-testing#readme"
+}
